@@ -8,7 +8,7 @@
     <meta name="author" content="">
     <link rel="shortcut icon" href="assets/ico/favicon.png">
 
-    <title>Jangho's Previous Work</title>
+    <title>Jangho's Page</title>
 
     <!-- Bootstrap core CSS -->
     <link href="assets/css/bootstrap.css" rel="stylesheet">
@@ -16,6 +16,8 @@
 
     <!-- Custom styles for this template -->
     <link href="assets/css/main.css" rel="stylesheet">
+
+	<script src="assets/js/Chart.js"></script>
 
 
     <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
@@ -41,9 +43,9 @@
         <div class="navbar-collapse collapse">
           <ul class="nav navbar-nav navbar-right">
             <li><a href="index.html">HOME</a></li>
-            <li><a href="about.html">ABOUT</a></li>
-            <li><a href="services.html">SERVICES</a></li>
-            <li class="active"><a href="works.html">WORK EXPERIENCE</a></li>
+            <li class="active"><a href="about.html">ABOUT</a></li>
+            <li><a href="services.html">RESUME</a></li>
+            <li><a href="works.html">WORK EXPERIENCE</a></li>
             <li><a data-toggle="modal" data-target="#myModal" href="#myModal"><i class="fa fa-envelope-o"></i></a></li>
           </ul>
         </div><!--/.nav-collapse -->
@@ -54,107 +56,126 @@
 		<div class="container">
 			<div class="row centered">
 				<div class="col-lg-8 col-lg-offset-2">
-				<h2>Work Experience</h2>
+				<h4>LEARN MORE ABOUT ME</h4>
+				<p>I am the only one </p>
 				</div>
 			</div><!-- row -->
 		</div><!-- container -->
 	</div><!--  bluewrap -->
 
 
-	<div class="container desc">
-		<div class="row">
-			<br><br>
-			<div class="col-lg-6 centered">
-				<img src="assets/img/p03.png" alt="">
-			</div><!-- col-lg-6 -->
-			<div class="col-lg-6">
-				<h4>Business Development Internship</h4>
-                <h5>April 2013 – August 2013</h5>
-				<p>Company Name: WIN WIN INTERNATIONAL</p>
-				<p>
-					
-                    
-                    <i class="fa fa-circle-o"></i> Assisted fishing-products catalogue publishing in English<br/>
-                    <i class="fa fa-circle-o"></i> Documented, developed and redesigned internally developed a contract documentation format.<br/>
-                    <i class="fa fa-circle-o"></i> Designed the company’s brand new logo and developed the e-commerce based website<br/>
-                    <i class="fa fa-circle-o"></i> Interpreted for contract manager<br/>
-                    <i class="fa fa-circle-o"></i> Prepared procurement documents for upcoming contracts in Japan and China.<br/>
-                    					<i class="fa fa-link"></i> <a href="#">DOWNLOAD LINK: RESUME</a>
+	<div class="container w">
+		<div class="row centered">
+			
+            <div class="col-lg-8 col-lg-offset-2">
+				<img class="img-circle" src="assets/img/profile.jpg" width="110" height="110" alt="">
+				<h4>Jang-ho Kim</h4>
+				<p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form.</p>
+				<p><a href="#">@Frank_BlackTie</a></p>
+			</div><!-- col-lg-3 -->
 
-
-				</p>
-			</div>
-		</div><!-- row -->
-		
-		<br><br>
-		<hr>
-		<br><br>
-		<div class="row">
-			<div class="col-lg-6 centered">
-				<img src="assets/img/p01.png" alt="">
-			</div><!-- col-lg-6 -->
-			<div class="col-lg-6">
-				<h4>Interpreter and Military Police Squad Administrator</h4>
-                <h5>April 2011 – April 2013</h5>
-				<p>Company Name: Republic of Korea Air Force</p>
-				<p>
-					
-                    
-                    <i class="fa fa-circle-o"></i> Handled and managed clearance papers and commemorative air show events<br/>
-                    <i class="fa fa-circle-o"></i> Interpreted for US-ROK Air Force military police squad operations<br/>
-                    <i class="fa fa-circle-o"></i> Worked with MP chief to strategically allocate human capital for our division’s future success<br/>
-                    					<i class="fa fa-link"></i> <a href="#">DOWNLOAD LINK: RESUME</a>
-				</p>
-			</div>
 		</div><!-- row -->
 
-		<br><br>
-		<hr>
-		<br><br>
-		<div class="row">
-			<div class="col-lg-6 centered">
-				<img src="assets/img/p02.png" alt="">
-			</div><!-- col-lg-6 -->
-			<div class="col-lg-6">
-				<h4>Co-founder</h4>
-                <h5>January 2014 - Present</h5>
-				<p>Company Name: BORDERLESS TALK</p>
-				<p>
-					
-                    
-                    <i class="fa fa-circle-o"></i>Created a blog for international abroad students compiling Asian cultural experiences in the US<br/>
-                    <i class="fa fa-circle-o"></i> Created student group communicating with 8 other schools to promote networking and group charity work in the US and Korea (schools including Boston Univ. Harvard, Northeastern, Boston College, Seoul National Univ. and etc).<br/>
-                    <i class="fa fa-circle-o"></i> In charge of updating and designing new event ideas, web page and networking between alumni and currently enrolled students<br/>
-                    <i class="fa fa-circle-o"></i> Assembled a group to discuss about concurrent global issues<br/>
-                            					<i class="fa fa-link"></i> <a href="#">DOWNLOAD LINK: RESUME</a>
-				</p>
-			</div>
-		</div><!-- row -->
-		
-        <br><br>
-		<hr>
-		<br><br>
-		<div class="row">
-			<div class="col-lg-6 centered">
-				<img src="assets/img/p01.png" alt="">
-			</div><!-- col-lg-6 -->
-			<div class="col-lg-6">
-				<h4>Program Co-founder and Researcher</h4>
-                <h5>September 2015 - Present</h5>
-				<p>Company Name: ICE (Inforsdsdsdmation Center of Essence)</p>
-				<p>
-					
-                    
-                    <i class="fa fa-circle-o"></i> Researched and compiled IT trends and global economic case studies in the US<br/>
-                    <i class="fa fa-circle-o"></i> Designed and implemented independent research projects<br/>
-                    <i class="fa fa-circle-o"></i> Distributed weekly current-event news to ICE members<br/>
-                    					<i class="fa fa-link"></i> <a href="#">DOWNLOAD LINK: RESUME</a>
-				</p>
-			</div>
-		</div><!-- row -->
-        
-        <br><br>
 	</div><!-- container -->
+
+
+	<!-- PORTFOLIO SECTION -->
+	<div id="dg">
+		<div class="container">
+			<div class="row centered">
+				<h4>OUR SKILLS</h4>
+				<br>
+				
+			<!-- First Chart -->
+			<div class="col-lg-3">
+				<canvas id="canvas" height="130" width="130"></canvas>
+				<br>
+				<script>
+					var doughnutData = [
+							{
+								value: 50,
+								color:"#3498db"
+							},
+							{
+								value : 30,
+								color : "#3a5233"
+							}
+						];
+						var myDoughnut = new Chart(document.getElementById("canvas").getContext("2d")).Doughnut(doughnutData);
+				</script>
+				<p><b>Design & Brand</b></p>
+				<p><small>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form.</small></p>
+			</div><!-- /col-lg-3 -->
+
+			<!-- Second Chart -->
+			<div class="col-lg-3">
+				<canvas id="canvas2" height="130" width="130"></canvas>
+				<br>
+				<script>
+					var doughnutData = [
+							{
+								value: 90,
+								color:"#3498db"
+							},
+							{
+								value : 10,
+								color : "#ecf0f1"
+							}
+						];
+						var myDoughnut = new Chart(document.getElementById("canvas2").getContext("2d")).Doughnut(doughnutData);
+				</script>
+				<p><b>Web Development</b></p>
+				<p><small>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form.</small></p>
+			</div><!-- /col-lg-3 -->
+			
+			<!-- Third Chart -->
+			<div class="col-lg-3">
+				<canvas id="canvas3" height="130" width="130"></canvas>
+				<br>
+				<script>
+					var doughnutData = [
+							{
+								value: 50,
+								color:"#3498db"
+							},
+							{
+								value : 50,
+								color : "#ecf0f1"
+							}
+						];
+						var myDoughnut = new Chart(document.getElementById("canvas3").getContext("2d")).Doughnut(doughnutData);
+				</script>
+				<p><b>Seo Services</b></p>
+				<p><small>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form.</small></p>
+			</div><!-- /col-lg-3 -->
+			
+			<!-- Fourth Chart -->
+			<div class="col-lg-3">
+				<canvas id="canvas4" height="130" width="130"></canvas>
+				<br>
+				<script>
+					var doughnutData = [
+							{
+								value: 80,
+								color:"#3498db"
+							},
+							{
+								value : 20,
+								color : "#ecf0f1"
+							}
+						];
+						var myDoughnut = new Chart(document.getElementById("canvas4").getContext("2d")).Doughnut(doughnutData);
+				</script>
+				<p><b>Printing</b></p>
+				<p><small>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form.</small></p>
+			</div><!-- /col-lg-3 -->
+				
+				
+			</div><!-- row -->
+		</div><!-- container -->
+	</div><!-- DG -->
+
+
 
 	
 	<div id="r">
@@ -197,7 +218,6 @@
 						London, UK.<br/>
 						+44 8948-4343<br/>
 						hi@blacktie.co
-                        <a href="mailto:jakim@bu.edu">Email me: jakim at bu.edu</a> 
 		        	</p>
 		        	<div id="mapwrap">
 		<iframe height="300" width="100%" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.google.es/maps?t=m&amp;ie=UTF8&amp;ll=52.752693,22.791016&amp;spn=67.34552,156.972656&amp;z=2&amp;output=embed"></iframe>
