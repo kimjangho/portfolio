@@ -169,6 +169,41 @@ a:after {
 	text-transform: uppercase;
 }
 
+
+#resumewrap {
+	background: url(../img/resume_images.jpg) no-repeat center top;
+	margin-top: -10px;
+	padding-top:20px;
+	text-align:center;
+	background-attachment: relative;
+	background-position: center center;
+	min-height: 400px;
+	width: 100%;
+	
+    -webkit-background-size: 100%;
+    -moz-background-size: 100%;
+    -o-background-size: 100%;
+    background-size: 100%;
+
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+#resumewrap h4 {
+	margin-top: 100px;
+	color: white;
+	font-size: 60px;
+	font-weight: 200;
+	letter-spacing: 3px;
+    
+    background: rgb(0, 0, 0); /* fallback color */
+   background: rgba(0, 0, 0, 0.7);
+
+}
+
+
 /* Dark Grey Wrap */
 #dg {
 	background: #e0e0e0;
