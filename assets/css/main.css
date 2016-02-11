@@ -99,7 +99,7 @@ a:after {
 }
 
 .navbar-inverse .navbar-brand {
-	color: #999999;
+	color: white;
 	font-weight: bolder;
 	font-size: 22px;
 	letter-spacing: 1px;
@@ -110,6 +110,7 @@ a:after {
 	font-size: 22px;
 	letter-spacing: 1px;
 }
+
 
 /*TILT*/
 .tilt {
