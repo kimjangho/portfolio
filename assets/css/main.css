@@ -161,6 +161,9 @@ a:after {
 	font-size: 70px;
 	font-weight: 300;
 	letter-spacing: 3px;
+    
+       background: rgb(0, 0, 0); /* fallback color */
+   background: rgba(0, 0, 0, 0.7);
 }
 
 #headerwrap h2 {
@@ -169,6 +172,9 @@ a:after {
 	font-weight: 700;
 	letter-spacing: 2px;
 	text-transform: uppercase;
+    
+       background: rgb(0, 0, 0); /* fallback color */
+   background: rgba(0, 0, 0, 0.7);
 }
 
 
