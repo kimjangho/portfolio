@@ -162,7 +162,7 @@ a:after {
 	font-weight: 300;
 	letter-spacing: 3px;
     
-       background: rgb(0, 0, 0); /* fallback color */
+    background: rgb(0, 0, 0); /* fallback color */
    background: rgba(0, 0, 0, 0.7);
 }
 
@@ -173,7 +173,7 @@ a:after {
 	letter-spacing: 2px;
 	text-transform: uppercase;
     
-       background: rgb(0, 0, 0); /* fallback color */
+    background: rgb(0, 0, 0); /* fallback color */
    background: rgba(0, 0, 0, 0.7);
 }
 
