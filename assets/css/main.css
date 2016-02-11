@@ -99,11 +99,8 @@ a:after {
 }
 
 .navbar-inverse .navbar-brand {
-<<<<<<< HEAD
-	color: white;
-=======
+
 	color: whitesmoke;
->>>>>>> origin/gh-pages
 	font-weight: bolder;
 	font-size: 22px;
 	letter-spacing: 1px;
