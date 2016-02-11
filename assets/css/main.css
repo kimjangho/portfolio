@@ -14,7 +14,7 @@
 /* OVERALL ASPECT */
 
 body {
-  background-color: #f2f2f2;
+  background-color: #FFFFFF;
     font-family: "Lato";
     font-weight: 300;
     font-size: 16px;
@@ -90,8 +90,8 @@ a:after {
 }
 
 .navbar-inverse {
-	background: #2d2d2d;
-	border-color: #2d2d2d;
+	background: MintCream;
+	border-color: MintCream;
 }
 
 .navbar-inverse .navbar-nav > .active > a {
@@ -196,7 +196,7 @@ a:after {
 
 /* Red Wrap */
 #r {
-	background: blue;
+	background: #5F9EA0;
 	padding-top: 35px;
 	padding-bottom: 35px;
 }
@@ -213,14 +213,15 @@ a:after {
 /* Blue Wrap */
 
 #blue {
-	background: #3498db;
-	padding-top: 35px;
-	padding-bottom: 35px;
+	background:#5F9EA0;
+	padding-top: 20px;
+	padding-bottom: 20px;
 }
 
 #blue h4 {
 	color: white;
-	font-weight: 700;
+        font-size: 50px;
+	font-weight: 1000;
 }
 
 #blue p {
@@ -231,7 +232,7 @@ a:after {
 
 /* Footer Wrap */
 #f {
-	background: #2d2d2d;
+	background: MintCream;
 	padding-top: 30px;
 	padding-bottom: 30px;
 }
