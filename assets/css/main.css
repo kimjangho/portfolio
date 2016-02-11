@@ -158,22 +158,24 @@ a:after {
 #headerwrap h1 {
 	margin-top: 100px;
 	color: white;
-	font-size: 70px;
+	font-size: 50px;
 	font-weight: 300;
 	letter-spacing: 3px;
     
-    background: rgb(0, 0, 0); /* fallback color */
+    background: rgb(0, 0, 0);
+    /* fallback color */
    background: rgba(0, 0, 0, 0.7);
 }
 
 #headerwrap h2 {
 	color: white;
-	font-size: 40px;
+	font-size: 35px;
 	font-weight: 700;
 	letter-spacing: 2px;
 	text-transform: uppercase;
     
-    background: rgb(0, 0, 0); /* fallback color */
+    background: rgb(0, 0, 0); 
+    /* fallback color */
    background: rgba(0, 0, 0, 0.7);
 }
 
@@ -202,7 +204,7 @@ a:after {
 #resumewrap h4 {
 	margin-top: 100px;
 	color: white;
-	font-size: 60px;
+	font-size: 40px;
 	font-weight: 200;
 	letter-spacing: 3px;
     
@@ -263,7 +265,7 @@ a:after {
 
 #blue h4 {
 	color: lightslategray;
-        font-size: 50px;
+    font-size: 50px;
 	font-weight: 10;
 }
 
